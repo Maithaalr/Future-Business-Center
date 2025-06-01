@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 # 1. Setup and Logo
 st.set_page_config(page_title="Business Calculator", layout="centered")
